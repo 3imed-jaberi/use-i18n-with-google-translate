@@ -1,0 +1,12 @@
+{
+  "Hello": "Bonjour",
+  "Welcome": "Bienvenue",
+  "NestedAtt": {
+    "Att1": "salut",
+    "Att2": 20,
+    "Att3": true,
+    "Att4": {
+      "DeepNestedAtt": "Feu"
+    }
+  }
+}
